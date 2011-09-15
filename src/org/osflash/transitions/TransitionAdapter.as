@@ -1,7 +1,7 @@
 package org.osflash.transitions
 {
 	import org.osflash.easing.IEasingFunction;
-	import org.osflash.easing.Linear;
+	import org.osflash.easing.linear.Linear;
 	/**
 	 * @author Simon Richardson - simon@ustwo.co.uk
 	 */

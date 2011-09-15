@@ -1,5 +1,5 @@
-h1. AS3-UISignals
+h1. AS3-Transitions
 
-AS3-UISignals is a attempt to provide a unified interaction model for components.
+AS3-Transitions is a attempt to provide a very simple and efficient transitions api.
 
-AS3-UISignals uses the "MIT":http://en.wikipedia.org/wiki/MIT_License license.
+AS3-Transitions uses the "MIT":http://en.wikipedia.org/wiki/MIT_License license.

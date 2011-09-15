@@ -1,5 +1,6 @@
-package org.osflash.easing
+package org.osflash.easing.linear
 {
+	import org.osflash.easing.IEasingFunction;
 	/**
 	 * @author Simon Richardson - simon@ustwo.co.uk
 	 */
